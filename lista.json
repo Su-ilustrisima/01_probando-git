@@ -1,0 +1,7 @@
+lista : [
+	{nombre: 'José', apellido: 'Hernández', edad: 45},
+	{nombre: 'Hugo', apellido: 'Fernández', edad: 40},
+	{nombre: 'Paco', apellido: 'Rojas', edad: 30},
+	{nombre: 'Luis', apellido: 'Salas', edad: 25},
+	{nombre: 'Donald', apellido: 'Astudillo', edad: 18}
+]

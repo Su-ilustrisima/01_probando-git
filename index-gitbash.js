@@ -1,0 +1,1 @@
+alert('Probando mi git bash en mi repositorio desde consola');
